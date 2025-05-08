@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Nexorion.Mobile.GuestApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eddbdf845992b9eb341c33171b1989feb43d7aa7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Nexorion.Mobile.GuestApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Nexorion.Mobile.GuestApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

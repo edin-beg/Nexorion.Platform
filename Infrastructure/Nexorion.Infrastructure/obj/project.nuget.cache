@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "wRfmYAuL3FY=",
+  "dgSpecHash": "Ty2D3vxTHsw=",
   "success": true,
   "projectFilePath": "D:\\OneDrive\\000 - DevOps\\Nexorion.Platform\\Infrastructure\\Nexorion.Infrastructure\\Nexorion.Infrastructure.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\edinbegovic\\.nuget\\packages\\npoco\\5.7.1\\npoco.5.7.1.nupkg.sha512",
+    "C:\\Users\\edinbegovic\\.nuget\\packages\\system.linq.async\\5.0.0\\system.linq.async.5.0.0.nupkg.sha512",
+    "C:\\Users\\edinbegovic\\.nuget\\packages\\system.reflection.emit.lightweight\\4.7.0\\system.reflection.emit.lightweight.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }
